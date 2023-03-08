@@ -1,4 +1,4 @@
-package com.javapack.test;
+package cursor.hw1;
 
 public class HW1ArithmeticOperations {
     public static void main(String[] args) {
